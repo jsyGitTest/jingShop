@@ -1,0 +1,8 @@
+2022-11-04 14:23:00.251 [main] WARN  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'blogArticleController': Unsatisfied dependency expressed through field 'quartzTaskService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'quartzTaskServiceImpl': Invocation of init method failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'mysiteforme.quartz_task' doesn't exist
+### The error may exist in com/mysiteforme/admin/dao/QuartzTaskDao.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  id,`name`,cron,target_bean AS targetBean,trget_method AS trgetMethod,params,`status`,create_by AS createId,create_date AS createDate,update_by AS updateId,update_date AS updateDate,del_flag AS delFlag,remarks  FROM quartz_task   WHERE  (del_flag = ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'mysiteforme.quartz_task' doesn't exist
+; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'mysiteforme.quartz_task' doesn't exist
