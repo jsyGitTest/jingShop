@@ -1,8 +1,0 @@
-2022-11-09 14:14:37.407 [http-nio-8080-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/admin/product/list] in DispatcherServlet with name 'dispatcherServlet'
-2022-11-09 14:15:56.052 [http-nio-8080-exec-1] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/admin/product/list] in DispatcherServlet with name 'dispatcherServlet'
-2022-11-09 14:16:47.555 [http-nio-8080-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/admin/product/list] in DispatcherServlet with name 'dispatcherServlet'
-2022-11-09 14:17:41.882 [http-nio-8080-exec-9] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/admin/product/list] in DispatcherServlet with name 'dispatcherServlet'
-2022-11-09 14:17:55.720 [http-nio-8080-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/admin/product/list] in DispatcherServlet with name 'dispatcherServlet'
-2022-11-09 14:18:59.686 [http-nio-8080-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/admin/tProduct/list] in DispatcherServlet with name 'dispatcherServlet'
-2022-11-09 14:19:10.704 [http-nio-8080-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/admin/tProduct/list] in DispatcherServlet with name 'dispatcherServlet'
-2022-11-09 14:25:43.344 [http-nio-8080-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/admin/product/list] in DispatcherServlet with name 'dispatcherServlet'

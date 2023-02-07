@@ -1,7 +1,0 @@
-2023-01-17 09:24:25.340 [http-nio-8080-exec-9] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/product-details.html] in DispatcherServlet with name 'dispatcherServlet'
-2023-01-17 09:24:30.060 [http-nio-8080-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/product-details.html] in DispatcherServlet with name 'dispatcherServlet'
-2023-01-17 11:05:43.669 [http-nio-8080-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/shop.html] in DispatcherServlet with name 'dispatcherServlet'
-2023-01-17 11:11:28.996 [http-nio-8080-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/shop/index] in DispatcherServlet with name 'dispatcherServlet'
-2023-01-17 11:14:01.759 [http-nio-8080-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/shop/index] in DispatcherServlet with name 'dispatcherServlet'
-2023-01-17 11:25:48.045 [http-nio-8080-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/shop/index] in DispatcherServlet with name 'dispatcherServlet'
-2023-01-17 14:04:47.830 [http-nio-8080-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/shop-fullwidth-list.html] in DispatcherServlet with name 'dispatcherServlet'
