@@ -1,37 +1,32 @@
-# jing_shop
+# 晶酱蔬菜商城
 
-#### 介绍
-晶酱蔬菜用户端
+蔬菜商城是我自己利用业余时间编写的一个项目，用户在商场选购蔬菜下单。
 
-#### 软件架构
-软件架构说明
+#### 采用的技术
 
+1. springboot
+2. freemarker
+3. mybatis-plus
+4. mysql8
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+#### 模块
+| 模块  | 备注           |
+|-----|--------------|
+| 首页  | 二级分类、热销蔬菜、文章 |
+| 我的  | 订单、住址        |
+| 文章  | 文章阅读         |
+| 留言板 | 客户留言         |
+| 商城  | 搜索页          |
 
 
-#### 特技
+#### 另外商城数据采用爬虫抓取清洗入库
+数据采集比较麻烦我也是偷懒，pyhton抓取数据清洗到数据库
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 商城截图
+
+![输入图片说明](src/main/resources/static/images/4f304ccb3fc0ea6b3190d2e2651342ba.png)
+![输入图片说明](src/main/resources/static/images/WechatIMG14060.png)
+![输入图片说明](src/main/resources/static/images/1e8040c6342f3239e486ad2ed45d6c6e.png)
+![输入图片说明](src/main/resources/static/images/cb73149e6cdaf68cc228fe1dc181effe.png)
+![输入图片说明](src/main/resources/static/images/403a1e7d66e32886165048348e7a82b2.png)
+![输入图片说明](src/main/resources/static/images/f8d13a0b95629e7a0d5e1e56156f75dd.png)
