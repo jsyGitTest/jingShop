@@ -2,6 +2,9 @@
 
 蔬菜商城是我自己利用业余时间编写的一个项目，用户在商场选购蔬菜下单。
 
+# 演示地址
+https://www.bilibili.com/video/BV1Mv4y147ir/?spm_id_from=333.999.0.0
+
 #### 采用的技术
 
 1. springboot
