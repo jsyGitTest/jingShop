@@ -1,16 +1,24 @@
 # 晶酱蔬菜商城
 
-蔬菜商城是我自己利用业余时间编写的一个项目，用户在商场选购蔬菜下单。
+蔬菜商城是我自己利用业余时间编写的一个项目，用户在商场选购蔬菜下单。可以在网页留言、浏览文章。 后台管理员可以查看订单、上架蔬菜、查看用户留言、发布文章等。另外还接入了支付宝沙箱支付，模拟付款。
 
 # 演示地址
-https://www.bilibili.com/video/BV1Mv4y147ir/?spm_id_from=333.999.0.0
+https://www.bilibili.com/video/BV1UP411y7Q5/?spm_id_from=333.337.search-card.all.click&vd_source=e2ed3f9482b5241893eb7f047a9702f1
+
+## 更新日志
+| 日期  | 备注           |
+|-----|--------------|
+| 2023-03-01  | 新增支付宝沙箱支付 |
+| 2023-03-02  | 新加优惠券使用        |
 
 #### 采用的技术
 
 1. springboot
 2. freemarker
-3. mybatis-plus
-4. mysql8
+3. Echarts
+4. Layui
+5. mybatis-plus
+6. mysql5
 
 #### 模块
 | 模块  | 备注           |
